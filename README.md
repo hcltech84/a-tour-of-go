@@ -1,2 +1,1 @@
-# a-tour-of-go
-A tour of Go
+# A tour of Go
